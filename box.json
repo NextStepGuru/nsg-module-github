@@ -1,0 +1,90 @@
+{
+    "name":"nsg-module-github",
+    "slug":"nsg-module-github",
+    "version":"1.0.0",
+    "author":"Jeremy R DeYoung",
+    "shortDescription":"Coldbox Module to allow Social Login via Github",
+    "location":"",
+    "directory":"",
+    "createPackageDirectory":true,
+    "packageDirectory":"",
+    "homepage":"https://github.com/NextStepGuru/nsg-module-github",
+    "documentation":"https://github.com/NextStepGuru/nsg-module-github",
+    "repository":{
+        "type":"github",
+        "url":"https://github.com/NextStepGuru/nsg-module-github"
+    },
+    "bugs":"",
+    "description":"",
+    "instructions":"README.md",
+    "changelog":"CHANGELOG.md",
+    "type":"",
+    "keywords":[
+
+    ],
+    "private":false,
+    "engines":[
+        {
+            "type":"railo",
+            "version":">=4.1.x"
+        },
+        {
+            "type":"adobe",
+            "version":">=10.0.0"
+        }
+    ],
+    "defaultEngine":"",
+    "defaultPort":0,
+    "projectURL":"https://github.com/NextStepGuru/nsg-module-github",
+    "license":[
+        {
+            "type":"",
+            "url":""
+        }
+    ],
+    "contributors":[
+
+    ],
+    "dependencies":{
+        "nsg-module-oauth":"1.0.3",
+        "nsg-module-security":"1.0.3"
+    },
+    "devDependencies":{
+
+    },
+    "installPaths":{
+
+    },
+    "ignore":[
+
+    ],
+    "testbox":{
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "labels":[
+
+        ],
+        "reporter":"",
+        "reporterResults":"",
+        "bundles":[
+            ""
+        ],
+        "directory":{
+            "mapping":"",
+            "recurse":true
+        },
+        "watchers":[
+
+        ],
+        "notify":{
+            "emails":[
+
+            ],
+            "growl":"",
+            "url":""
+        }
+    }
+}
